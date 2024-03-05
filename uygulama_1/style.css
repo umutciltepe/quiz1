@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+}
+#yıldız{
+    width: 150px;
+}
+body > button{
+    width: 150px;
+    height: 300px;
+}
